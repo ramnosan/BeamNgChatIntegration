@@ -1,5 +1,5 @@
 # BeamNgChatIntegration
-TikTok Interactive mod for BeamNg. Actions in game are triggered by local webhooks (e.g. Tikfinity) 
+TikTok Interactive mod for BeamNgDrive. Actions in game are triggered by local webhooks (e.g. Tikfinity) 
 
 Tutorial:
 - You need pycharm community edition or something like this.
