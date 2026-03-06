@@ -18,3 +18,7 @@ Webhooks:
 - http://127.0.0.1:5000/boost
 - http://127.0.0.1:5000/kaputt
 - http://127.0.0.1:5000/reset
+
+
+Help:
+- If you need help with the setup feel free to message me
